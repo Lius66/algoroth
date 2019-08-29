@@ -18,5 +18,11 @@
     <ClCompile Include="sort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="count_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

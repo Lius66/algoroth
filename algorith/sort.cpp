@@ -21,7 +21,7 @@ int parent(const int& i);
 void max_heapify(vector<int>&A, const int & i,const int& n);
 void build_max_heap(vector<int>&A);
 
-int main() {
+int main1() {
 
 	init_nums();
 	out_put();
